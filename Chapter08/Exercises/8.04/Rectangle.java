@@ -1,7 +1,6 @@
 // Rectangle class to calculate the area and perimeter of a Rectangle
 // @Author: Adam Janecka
 package pkg8_04;
-
 public class Rectangle {
 
     private double length = 1;
